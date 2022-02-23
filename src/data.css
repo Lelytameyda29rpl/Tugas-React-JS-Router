@@ -1,0 +1,16 @@
+.judul{
+    position: absolute;
+    color:black;
+    text-align: center;
+    left: 470px;
+    top: 40px
+
+}
+.cover{
+    position:relative;
+}
+
+.img{
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
